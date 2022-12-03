@@ -1,5 +1,5 @@
 # fashion
-###This is my second bootstrap studio assignment
+### This is my second bootstrap studio assignment
 ### by Volenzo Clara
 
 ## live demo
